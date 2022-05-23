@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PP11", "PP11\PP11.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pp12", "pp12\pp12.vcxproj", "{791BD4BB-F11E-4ED7-934D-373B6F638DD8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pp12_Texture", "pp12_Texture\pp12_Texture.vcxproj", "{0B80C349-E37E-4644-BD34-2BAE4EEDD346}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{791BD4BB-F11E-4ED7-934D-373B6F638DD8}.Release|x64.Build.0 = Release|x64
 		{791BD4BB-F11E-4ED7-934D-373B6F638DD8}.Release|x86.ActiveCfg = Release|Win32
 		{791BD4BB-F11E-4ED7-934D-373B6F638DD8}.Release|x86.Build.0 = Release|Win32
+		{0B80C349-E37E-4644-BD34-2BAE4EEDD346}.Debug|x64.ActiveCfg = Debug|x64
+		{0B80C349-E37E-4644-BD34-2BAE4EEDD346}.Debug|x64.Build.0 = Debug|x64
+		{0B80C349-E37E-4644-BD34-2BAE4EEDD346}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B80C349-E37E-4644-BD34-2BAE4EEDD346}.Debug|x86.Build.0 = Debug|Win32
+		{0B80C349-E37E-4644-BD34-2BAE4EEDD346}.Release|x64.ActiveCfg = Release|x64
+		{0B80C349-E37E-4644-BD34-2BAE4EEDD346}.Release|x64.Build.0 = Release|x64
+		{0B80C349-E37E-4644-BD34-2BAE4EEDD346}.Release|x86.ActiveCfg = Release|Win32
+		{0B80C349-E37E-4644-BD34-2BAE4EEDD346}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
