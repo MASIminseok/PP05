@@ -7,9 +7,6 @@
 
 #pragma comment(lib, "OpenGL32")
 
-
-
-
 Player* p = new Player(0.1f, 0.9f, 0.9f, MuSeoun::vec3(1.0f, 0.0f, 0.0f));
 Player* e = new Player(0.1f, 0.0f, 0.0f, MuSeoun::vec3(0.0f, 0.0f, 1.0f));
 
@@ -25,19 +22,19 @@ static void key_callback(GLFWwindow* window, int key, int scancode, int action, 
     if (key == GLFW_KEY_UP && action == GLFW_PRESS)
         p->MoveUp(0.01f);
     if (key == GLFW_KEY_UP && action == GLFW_RELEASE)
-        p->MoveUp(1.0f);
+        p->MoveUp(0.0f);
     if (key == GLFW_KEY_DOWN && action == GLFW_PRESS)
         p->MoveUp(-0.01f);
     if (key == GLFW_KEY_DOWN && action == GLFW_RELEASE)
-        p->MoveUp(1.0f);
+        p->MoveUp(0.0f);
     if (key == GLFW_KEY_RIGHT && action == GLFW_PRESS)
         p->MoveRight(0.01f);
     if (key == GLFW_KEY_RIGHT && action == GLFW_RELEASE)
-        p->MoveRight(1.0f);
+        p->MoveRight(0.0f);
     if (key == GLFW_KEY_LEFT && action == GLFW_PRESS)
         p->MoveRight(-0.01f);
     if (key == GLFW_KEY_LEFT && action == GLFW_RELEASE)
-        p->MoveRight(1.0f);
+        p->MoveRight(0.0f);
 
 
 

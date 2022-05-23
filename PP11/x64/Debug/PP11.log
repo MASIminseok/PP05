@@ -1,3 +1,3 @@
 ﻿  pp11.cpp
-C:\Users\USER\aaa\PP11\Player.hpp(13,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
-  PP11.vcxproj -> C:\Users\USER\aaa\x64\Debug\PP11.exe
+C:\Users\YUHAN\Desktop\20220523\PP11\Player.hpp(13,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  PP11.vcxproj -> C:\Users\YUHAN\Desktop\20220523\x64\Debug\PP11.exe

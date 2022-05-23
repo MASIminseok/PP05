@@ -1,0 +1,8 @@
+﻿  pp12.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': 매크로 재정의
+C:\Users\YUHAN\Desktop\20220523\packages\glfw.3.3.7\build\native\include\GLFW\glfw3.h(123): message : 'APIENTRY'의 이전 정의를 참조하십시오.
+C:\Users\YUHAN\Desktop\20220523\pp12\pp12.cpp(26,54): warning C4554: '^': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\YUHAN\Desktop\20220523\pp12\pp12.cpp(222,66): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\YUHAN\Desktop\20220523\pp12\pp12.cpp(223,67): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\YUHAN\Desktop\20220523\pp12\pp12.cpp(186,18): warning C4101: 'outputHeader' :참조되지 않은 지역 변수입니다.
+  pp12.vcxproj -> C:\Users\YUHAN\Desktop\20220523\x64\Debug\pp12.exe
